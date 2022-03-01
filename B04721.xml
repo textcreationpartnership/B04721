@@ -1,0 +1,1124 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pleasant history of Roswall and Lillian. Declaring the occasional of Roswall his removing from his native kingdom, to the kingdom of Bealm, and what befell him in his journey from his steward ; the entertainment he met with from an aged wife ; his education in school ; with his fortunate admission to be servant to Lillian the kings only daughter, with whom he fell deeply in love ... his thankfull remembrance of his friends ; the number of his children, and their good fortune, all worthy reading.</title>
+            <title>Roswall and Lillian</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04721</idno>
+            <idno type="STC">Wing P2550</idno>
+            <idno type="STC">ESTC R181861</idno>
+            <idno type="EEBO-CITATION">53981555</idno>
+            <idno type="OCLC">ocm 53981555</idno>
+            <idno type="VID">180301</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180301)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2825:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pleasant history of Roswall and Lillian. Declaring the occasional of Roswall his removing from his native kingdom, to the kingdom of Bealm, and what befell him in his journey from his steward ; the entertainment he met with from an aged wife ; his education in school ; with his fortunate admission to be servant to Lillian the kings only daughter, with whom he fell deeply in love ... his thankfull remembrance of his friends ; the number of his children, and their good fortune, all worthy reading.</title>
+                  <title>Roswall and Lillian</title>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by L.H.,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno, 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Imperfect: stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tales --  Scotland.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180301:1"/>
+            <pb facs="tcp:180301:1"/>
+            <pb facs="tcp:180301:2"/>
+            <pb facs="tcp:180301:2" rendition="simple:additions"/>
+            <pb facs="tcp:180301:3"/>
+            <pb facs="tcp:180301:3"/>
+            <pb facs="tcp:180301:4"/>
+            <pb facs="tcp:180301:4" rendition="simple:additions"/>
+            <head>A PLEASANT HISTORY OF <hi>Roſwall</hi> and <hi>Lillian.</hi>
+            </head>
+            <p>DECLARING The occaſion of <hi>Roſwall</hi> his removing from his Native Kingdom, to the Kingdom of <hi>Bealm,</hi> and what befell him in his journey from his S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ward: The entertainment he met with from an aged Wife: His Education at School; With his fortunate admiſſion to be ſervant to <hi>Lillian</hi> the Kings only Daughter, with whom ſhe fell deeply in love. The reward of the three Lords by whom he attained the honour of the three dayes Juſting before the Marriage of the Steward, who was knowen to <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Traitor and therefore juſtly executed; with the renewed wiſhed-for Marriage betwixt <hi>Roſwall</hi> and <hi>Lillian:</hi> His thankfull remembrance of his friends; the number of his children, and their good fortune, all worthy reading.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>I. H. Anno,</hi> 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:180301:5"/>
+            <pb facs="tcp:180301:5" rendition="simple:additions"/>
+            <head>THE HISTORY OF <hi>Roſwall</hi> and <hi>Lillian.</hi>
+            </head>
+            <lg>
+               <l>NOw will ye liſt a little ſpace,</l>
+               <l>And I ſhall ſend you to ſolace:</l>
+               <l>You to ſolace, and be blyth,</l>
+               <l>Hearken, ye ſhall hear belyve</l>
+               <l>A tale that is of veritie,</l>
+               <l>If ye will hearken unto me.</l>
+            </lg>
+            <lg>
+               <l>In <hi>Naples</hi> lived there a King,</l>
+               <l>Had all the lands in Governing.</l>
+               <l>Who had a Lady fair and young,</l>
+               <l>Whoſe name was called <hi>Lillian:</hi>
+               </l>
+               <l>This Lady pleaſant was and fair,</l>
+               <l>Bare him a Son, which was his Heir,</l>
+               <l>Whoſe name was called <hi>Roſwall:</hi>
+               </l>
+               <l>Of fairer heard I never tell;</l>
+               <l>Princes to him could not compare,</l>
+               <l>
+                  <hi>Uliſſes</hi> nor <hi>Gandifere,</hi>
+               </l>
+               <l>
+                  <hi>Achilles</hi> nor <hi>Troyalus,</hi>
+               </l>
+               <l>Nor yet his Father <hi>Priamus:</hi>
+               </l>
+               <l>The Knight that kept the Parent well,</l>
+               <l>Was not ſo fair as <hi>Roſwall.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>There lived into that Countrie,</l>
+               <l>Worthy noble Lords three,</l>
+               <l>That to the King had done treaſon,</l>
+               <pb facs="tcp:180301:6"/>
+               <l>Therefore he put them in priſon;</l>
+               <l>And there he held them many a day,</l>
+               <l>Till they were aged quite away,</l>
+               <l>Aged and quite o'regrown with hair,</l>
+               <l>While of their lives they did deſpair,</l>
+               <l>That they knew of no remedie,</l>
+               <l>But looked after death daily;</l>
+               <l>So it befell upon a day</l>
+               <l>The young Prince he went to play,</l>
+               <l>Him to play and to ſolace,</l>
+               <l>And ſo it happened in that caſe,</l>
+               <l>Toward the Priſon he is gone,</l>
+               <l>To hear thir Lords making their moan,</l>
+               <l>He ſate down and a little ſtaid,</l>
+               <l>To hearken what thir Lords ſaid:</l>
+               <l>They ſaid, dear God, have mind of us,</l>
+               <l>Even for the ſake of dear Ieſus,</l>
+               <l>Who bought us with his precious blood,</l>
+               <l>And for us dyed on the rood,</l>
+               <l>To help us, if thy will it be,</l>
+               <l>And of this Priſon make us frée.</l>
+            </lg>
+            <lg>
+               <l>The young Prince did hear their moan,</l>
+               <l>He heard their mourning and their groan:</l>
+               <l>Then to his Chamber he is gone,</l>
+               <l>Heavy in heart, as ſad as ſtone;</l>
+               <l>He ſate down and did foreſée,</l>
+               <l>How beſt thir Lords might helped be,</l>
+               <l>And ſo he thought upon a wyle,</l>
+               <l>The King how he might beſt beguile;</l>
+               <l>A cuſtome then had the Iaylors,</l>
+               <l>Who keeped ay the Priſoners,</l>
+               <l>After the doors all locked were,</l>
+               <l>Vnto the King the keyes to bear,</l>
+               <l>The King uſed them to lay</l>
+               <pb facs="tcp:180301:6"/>
+               <l>Vnder his bed-head privily.</l>
+               <l>The Prince ſoon perceiving had,</l>
+               <l>Where the King the keyes laid:</l>
+               <l>And on a night he watch did keep</l>
+               <l>Till that the King was fallen aſleep:</l>
+               <l>He took the keyes full privilie,</l>
+               <l>And to the Priſon gone is he,</l>
+               <l>Who did deliver thir Lords thrée,</l>
+               <l>Bade them paſſe home to their Countrie:</l>
+               <l>And then they ſwore by ſweet Ieſus,</l>
+               <l>If ever ye miſter help of us,</l>
+               <l>We ſhall you help into your néed:</l>
+               <l>Glad was he having done the déed.</l>
+               <l>The keyes laid under his Fathers head,</l>
+               <l>And went and ſleept as he were dead.</l>
+            </lg>
+            <lg>
+               <l>The King roſe and eke the Queen,</l>
+               <l>The Principal, and Lords bedeen;</l>
+               <l>They went to meſſe and then to dine,</l>
+               <l>The Iaylors all did come in ſyne,</l>
+               <l>Asked from the King the keyes,</l>
+               <l>Which to deliver did him pleaſe:</l>
+               <l>Then to the Priſon they went in fear,</l>
+               <l>To give the Lords their dinner there;</l>
+               <l>But when they came all were away,</l>
+               <l>They knew not what to do nor ſay.</l>
+               <l>The Priſoners away were gone,</l>
+               <l>How, or what way known to none.</l>
+               <l>The King was then ſo dollorous,</l>
+               <l>That the three Lords were ſcaped thus:</l>
+               <l>He ſayes, O Lord, how may this be,</l>
+               <l>That thir Priſoners hath been made frée:</l>
+               <l>Vnder my bed-head lay the keyes,</l>
+               <l>None knew thereof, as God me eaſe.</l>
+               <pb facs="tcp:180301:7"/>
+               <l>And here I make a ſolemn vow,</l>
+               <l>Before you all my Lords now,</l>
+               <l>Who ere he be hath done the deed,</l>
+               <l>He ſhall be hang'd without remeed:</l>
+               <l>Or elſe ſo ſoon as I him ſee,</l>
+               <l>My own two hands his bane ſhall be:</l>
+               <l>It was reported through the Town,</l>
+               <l>That the young Prince the deed had done;</l>
+               <l>The word throughout the Pallace ran,</l>
+               <l>Which made the King a grieved man,</l>
+               <l>When he the vow conſidered,</l>
+               <l>And that his Son had done the déed.</l>
+               <l>The Queen then far more grieved was:</l>
+               <l>She mourn'd and wéeped with her face.</l>
+               <l>And quickly to the King went ſhe,</l>
+               <l>Who, knéeling down upon her knée,</l>
+               <l>Thus ſaid, for him that ſits on hie,</l>
+               <l>Let your Sons fault forgiven be:</l>
+               <l>That may not be Madam, he ſaid,</l>
+               <l>For I a faithfull vow have made,</l>
+               <l>That aſſoon as I may him ſee,</l>
+               <l>My own two hands his bane ſhall be;</l>
+               <l>Therefore I pray you, day and night,</l>
+               <l>To keep him well out of my ſight,</l>
+               <l>Till I ſend him to ſome Countrie,</l>
+               <l>Where he may ſafely keeped be.</l>
+               <l>And then in haſte down ſate the King,</l>
+               <l>Wrote letters without tarrying,</l>
+               <l>To ſend his Son to the King of <hi>Bealm,</hi>
+               </l>
+               <l>For to remain in that Realm.</l>
+               <l>Still to continue with the King,</l>
+               <l>Till he ſent for his home-coming,</l>
+               <l>Letters in haſte then ſoon wrote he,</l>
+               <pb facs="tcp:180301:7"/>
+               <l>Deſiring the King eſpeciallie,</l>
+               <l>For to receive his own dear Son,</l>
+               <l>Which for moſt truſt was ſent to him.</l>
+               <l>His furniſhing was made ready,</l>
+               <l>And he got gold in great plenty.</l>
+            </lg>
+            <lg>
+               <l>The Kings Steward, a ſtalward Knight,</l>
+               <l>Was made to keep him day and night,</l>
+               <l>And ſo his ſervant for to be,</l>
+               <l>To keep him well in that Countrie:</l>
+               <l>The Queen did look to the Steward,</l>
+               <l>And ſaid, my love, my joy, my heart,</l>
+               <l>Sir Steward, now I do thée pray,</l>
+               <l>To keep my Son both night and day,</l>
+               <l>And ſerve him both by foot and hand,</l>
+               <l>And thou ſhalt have both gold and land,</l>
+               <l>Or yet of any other thing</l>
+               <l>That thou'lt ſeek from me or the King,</l>
+               <l>He ſaid, Madam, that may not be,</l>
+               <l>But I will ſerve him tenderlie.</l>
+            </lg>
+            <lg>
+               <l>She ſayes, my fair Son <hi>Roſwall,</hi>
+               </l>
+               <l>Hearken what I to thee will tell,</l>
+               <l>When thou doſt come to that Country,</l>
+               <l>Carry thy ſelf right honeſtly,</l>
+               <l>Be Courteous, Genty, kind and frée,</l>
+               <l>And uſe ay in good companie:</l>
+               <l>And if thou needeſt ought to ſpend,</l>
+               <l>Send word to me, I ſhall thee ſend.</l>
+               <l>He took his leave then of the Queen,</l>
+               <l>And of her Ladies all bedeen:</l>
+               <l>Great mourning and great care they made</l>
+               <l>When that out of the Town they rade,</l>
+               <l>The Gracious God mot be his guide.</l>
+               <l>So on a time as they did ride,</l>
+               <pb facs="tcp:180301:8"/>
+               <l>Side for ſide, hand for hand rode they,</l>
+               <l>None other ſaw they in the way,</l>
+               <l>Only they two in companie,</l>
+               <l>Came to a River fair to ſee:</l>
+               <l>The Prince then ſaid unto the Knight,</l>
+               <l>My counſell is that here we light:</l>
+               <l>For in this place I thirſt ſo ſore,</l>
+               <l>That further can I ride no more,</l>
+               <l>Till of this water I get my fill:</l>
+               <l>Wot ye how I may win there till;</l>
+               <l>The Knight leapt down deliverlie,</l>
+               <l>And drank the water buſilie:</l>
+               <l>He bade him light and drink alſo</l>
+               <l>His fill ere he ſhould further go:</l>
+               <l>And on his belly, as he lay down</l>
+               <l>To drink the water ready bown.</l>
+               <l>The falſe Knight took him by the féet,</l>
+               <l>And vow'd to throw him in the déep,</l>
+               <l>Vnleſſe that he did ſwear an oath,</l>
+               <l>That he the Gold and letters both</l>
+               <l>Should unto him reſign gladly,</l>
+               <l>And his ſervant become truly,</l>
+               <l>To ſerve him well both day and night,</l>
+               <l>This oath he made to the falſe Knight:</l>
+               <l>He the Maſter, and he the knave:</l>
+               <l>He gave to him what he would crave.</l>
+               <l>And then anone withoutten ſtay,</l>
+               <l>They mounted both and went their way,</l>
+               <l>While they came to the Land of <hi>Bealm,</hi>
+               </l>
+               <l>And had paſt much of that Realm.</l>
+            </lg>
+            <lg>
+               <l>The Kings Pallace when they came near</l>
+               <l>
+                  <hi>Roſwall</hi> made ſorry chear:</l>
+               <l>For the Knight did him forbid,</l>
+               <pb facs="tcp:180301:8"/>
+               <l>Further with him for to ride;</l>
+               <l>He would fee ſervants in the Town,</l>
+               <l>Abundance of all faſhion.</l>
+               <l>Away he rode then with his gold,</l>
+               <l>Leaving poor <hi>Roſwall</hi> on the mold,</l>
+               <l>With not a penny in's companie</l>
+               <l>To buy his dinner, though he ſhould die.</l>
+               <l>So to the Town in by he rode,</l>
+               <l>And in the Kings Pallace abode.</l>
+               <l>In his heart was great rejoycing,</l>
+               <l>Preſented his letters to the King;</l>
+               <l>He read his letters haſtily,</l>
+               <l>And ſaid, Sir, welcome mot ye be;</l>
+               <l>Ye ſhall to me be love and dear,</l>
+               <l>So long as ye will tarry here,</l>
+               <l>Now in the Court we let him dwell.</l>
+               <l>And we will ſpeak of <hi>Roſwall<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Roſwall</hi> was mourning on the mold,</l>
+               <l>Wanting his letters and his gold:</l>
+               <l>He ſayes, alace, and woe is me,</l>
+               <l>For lack of food, I'm like to die;</l>
+               <l>O that my Mother knew my skaith.</l>
+               <l>My Father and my Mother baith:</l>
+               <l>For now I wot not what to do,</l>
+               <l>Nor what hand to turn me to:</l>
+               <l>Neither know I how to call me,</l>
+               <l>But I'm <hi>Diſſawar</hi> what e're befall me,</l>
+               <l>As then he making was his moan,</l>
+               <l>Beſide none but himſelf alone,</l>
+               <l>He lookt a little, and did eſpy</l>
+               <l>A little houſe, none elſe hard by;</l>
+               <l>To himſelf he ſayes quickly,</l>
+               <l>To yonder houſe I will me hy,</l>
+               <pb facs="tcp:180301:9"/>
+               <l>And ask ſome vittals for this night,</l>
+               <l>And harbour while the day be light:</l>
+               <l>He ſtepped forth right ſturdily,</l>
+               <l>And to the little houſe went he:</l>
+               <l>He knockt a little at the door,</l>
+               <l>And then went in upon the floor,</l>
+               <l>He found no creature therein,</l>
+               <l>Neither to make noiſe nor din,</l>
+               <l>But a ſilly and aged wife,</l>
+               <l>In chaſtity had led her life:</l>
+               <l>He ſayes, Dame, for Saint Iuly,</l>
+               <l>This night let me have harbury,</l>
+               <l>And als ſome vittals till the morn,</l>
+               <l>For him that was in <hi>Bethlehem</hi> born;</l>
+               <l>She ſayes, to ſuch meat as I have</l>
+               <l>Ye're welcome, part thereof receive,</l>
+               <l>She ſet him down, and gave him meat,</l>
+               <l>Even of the beſt that ſhe could get,</l>
+               <l>And prayed him to make good chear,</l>
+               <l>For you are very welcome here;</l>
+               <l>I know ye are of far Countrie,</l>
+               <l>For ye are ſéemly for to ſée.</l>
+               <l>Tell me your name in charitie,</l>
+               <l>And do not it deny to me:</l>
+               <l>He ſayes, <hi>Diſſawar</hi> they call me,</l>
+               <l>So was I call'd in my countrie:</l>
+               <l>She ſayes, <hi>Diſſawar,</hi> wo is me,</l>
+               <l>That is a poor name verilie</l>
+               <l>Yet <hi>Diſſawar,</hi> you ſhall not be,</l>
+               <l>For good help you ſhall have of me:</l>
+               <l>I have a ſon no children mo,</l>
+               <l>Who each day to the School doth go:</l>
+               <l>If ye will bide ſtill here with me,</l>
+               <pb facs="tcp:180301:9"/>
+               <l>To him full welcome will ye be;</l>
+               <l>And dayly you and he together</l>
+               <l>May go to School and learn each other;</l>
+               <l>He ſayes, good Dame, God you foryield,</l>
+               <l>For here I get of you good bield.</l>
+               <l>As he and ſhe was thus talkand,</l>
+               <l>In comes her ſon even at her hand:</l>
+               <l>Good Dame, he ſayes, my mother dear,</l>
+               <l>Who's this that ye have gotten here,</l>
+               <l>This is a Clark of far Countrie,</l>
+               <l>Would fain go to the School with thée;</l>
+               <l>He ſayes dear welcome mot he be,</l>
+               <l>For I have got good companie.</l>
+               <l>And then they paſt to their ſupper,</l>
+               <l>For his ſake had the better chear.</l>
+               <l>Then <hi>Diſſawar</hi> fair of face,</l>
+               <l>After ſupper ſaid the grace.</l>
+               <l>And quickly to their beds went they,</l>
+               <l>And ſléeped till it was near day,</l>
+               <l>And then the morn right airly roſe,</l>
+               <l>And put upon them all their cloaths,</l>
+               <l>They went to School right haſtilie,</l>
+               <l>By that time they could day-light ſée.</l>
+               <l>Into the School the Maſter came,</l>
+               <l>And asked at <hi>Diſſawar</hi> his name:</l>
+               <l>He ſayes, <hi>Diſſawar</hi> they call me,</l>
+               <l>So was I cal'd in my Countrie.</l>
+               <l>The Maſter ſaid, now <hi>Diſſawar,</hi>
+               </l>
+               <l>Thou ſhalt want neither meat nor laire:</l>
+               <l>When ever thou needeſt, come to me,</l>
+               <l>And I ſhall make you good ſupplie.</l>
+               <l>Great skill of learning before he had</l>
+               <l>Into the Country where he was bred.</l>
+               <pb facs="tcp:180301:10"/>
+               <l>He had not been a moneth there,</l>
+               <l>Into the School even little maire,</l>
+               <l>But the Steward unto the King</l>
+               <l>Of <hi>Diſſawar</hi> had perceiving:</l>
+               <l>He did ſet well his courteſie,</l>
+               <l>His nature and his great beautie;</l>
+               <l>Into his heart he greatly thought</l>
+               <l>In ſervice to have him, if he might</l>
+               <l>The Steward to the Wife is gone,</l>
+               <l>And ſayes, God ſave you fair Madam,</l>
+               <l>Where got ye this child ſo fair,</l>
+               <l>That to this Lodging makes repair?</l>
+               <l>Sir, they do call him <hi>Diſſawar,</hi>
+               </l>
+               <l>And ay hes done ſince he came here:</l>
+               <l>He is my joy, he is my heart,</l>
+               <l>For he and I ſhall never part;</l>
+               <l>He ſayes, Madam, that may not be,</l>
+               <l>He muſt go to the Court with me:</l>
+               <l>She ſayes, Sir, its againſt my will,</l>
+               <l>If ye will let him here ſtay ſtill.</l>
+               <l>The Steward took <hi>Diſſawar</hi> fair of face,</l>
+               <l>And brought him to the Kings Grace.</l>
+               <l>He had not been a moneth there,</l>
+               <l>Into ſervice or little maire,</l>
+               <l>But he was lov'd of old and young,</l>
+               <l>As he had been a Prince or King.</l>
+            </lg>
+            <lg>
+               <l>The King he had a Daughter fair,</l>
+               <l>And no moe bairns ſhe was his Heir,</l>
+               <l>She was by name call'd <hi>Lillian,</hi>
+               </l>
+               <l>Of fairer forſooth I read of nane:</l>
+               <l>Not the Noble <hi>French</hi> Quéen,</l>
+               <l>Nor yet the Lady <hi>Pelicane,</hi>
+               </l>
+               <l>Nor yet <hi>Helen</hi> that fair Ladie,</l>
+               <pb facs="tcp:180301:10"/>
+               <l>Nor yet the true <hi>Philippie,</hi>
+               </l>
+               <l>Nor yet the Lady <hi>Chriſtaline</hi>
+               </l>
+               <l>Was not ſo fair as <hi>Lillian,</hi>
+               </l>
+               <l>This luſty Lady <hi>Lillian</hi>
+               </l>
+               <l>Chooſ'd him to be her Chamberlane,</l>
+               <l>Of which the Steward was full wo,</l>
+               <l>That he ſo ſoon ſhould part him fro:</l>
+               <l>Yet would not ſay nay to <hi>Lillian,</hi>
+               </l>
+               <l>Of which the Lady was right fain,</l>
+               <l>And entred him in her ſervice,</l>
+               <l>For he was both leill, true and wiſe:</l>
+               <l>He brake her bread, and made good chear,</l>
+               <l>Filled the cup, the wine that bare:</l>
+               <l>She took ſuch comfort then of him,</l>
+               <l>She lov'd him better nor all her kin.</l>
+               <l>Aſide ſhe call'd him on a day,</l>
+               <l>And thus unto him ſhe did ſay,</l>
+               <l>Now tell me <hi>Diſſawar</hi> for charitie,</l>
+               <l>Into what Country born was ye?</l>
+               <l>He ſaid I'm of a far Countrie,</l>
+               <l>My father's a man of a low degrée:</l>
+               <l>I cannot truſt, ſaid ſhe, by the rood,</l>
+               <l>But you are come of noble blood:</l>
+               <l>For I know by your courtiſie,</l>
+               <l>And by your wonder fair bodie,</l>
+               <l>That ye are come of noble blood,</l>
+               <l>This is my reaſon, by the rood,</l>
+               <l>Madam, by that ye may well ken,</l>
+               <l>That I am come of ſober men.</l>
+               <l>
+                  <hi>Diſſawar,</hi> my little flower,</l>
+               <l>I wiſh thou were my paramour:</l>
+               <l>God ſen I had thee to be King,</l>
+               <l>That I might wed you with a King.</l>
+               <pb facs="tcp:180301:11"/>
+               <l>In her arms ſhe did him imbrace,</l>
+               <l>And kiſt him thrice into that place.</l>
+               <l>He knéeled down upon his knée,</l>
+               <l>And thanked that Lady heartilie:</l>
+               <l>He ſaid, Lady, God you foreyéeld,</l>
+               <l>That ye ſhould love ſo poor a child;</l>
+               <l>And I now, Lady, while I die,</l>
+               <l>Love you again moſt heartilie,</l>
+               <l>Within his heart he was right glad</l>
+               <l>And he did think mair then he ſaid.</l>
+               <l>Soon after that this Lady fair,</l>
+               <l>Said anone to <hi>Diſſawar,</hi>
+               </l>
+               <l>
+                  <hi>Diſſawar,</hi> I do you pray,</l>
+               <l>Caſt that name from you away;</l>
+               <l>Call you <hi>Hector</hi> or <hi>Oliver</hi>
+               </l>
+               <l>Ye are ſo fair without compare:</l>
+               <l>Call your ſelf Sir <hi>Porteous,</hi>
+               </l>
+               <l>Or elſe the worthy <hi>Emedus;</hi>
+               </l>
+               <l>Call you the noble <hi>Predicaſe.</hi>
+               </l>
+               <l>Who was of fair and comely face;</l>
+               <l>Becauſe that I love you ſo well,</l>
+               <l>Let your name be Sir <hi>Lion dale,</hi>
+               </l>
+               <l>Or great <hi>Florent</hi> of <hi>Albanie,</hi>
+               </l>
+               <l>My heart, if ye bear love to me;</l>
+               <l>Or call you <hi>Lancelot du Lake,</hi>
+               </l>
+               <l>For your deareſt true loves ſake;</l>
+               <l>Call you the Knight of Arms green,</l>
+               <l>For the love of your Lady ſhéen:</l>
+               <l>He ſayes, <hi>Diſſawar</hi> they muſt call me,</l>
+               <l>While afterward I more do ſée.</l>
+               <l>If ye will have no other name,</l>
+               <l>Call you a Squire to the King,</l>
+               <l>Or to his daughter Chamberlan,</l>
+               <pb facs="tcp:180301:11"/>
+               <l>For love of his daughter <hi>Lillian.</hi>
+               </l>
+               <l>She laugh'd, and once or twice him kiſt,</l>
+               <l>And to her Ladies then ſhe paſt,</l>
+               <l>And <hi>Diſſawar</hi> was very glad,</l>
+               <l>For the joy he of the Lady had,</l>
+            </lg>
+            <lg>
+               <l>So it befell upon a day,</l>
+               <l>His Father to his Mother did ſay,</l>
+               <l>I think right long for to hear tell</l>
+               <l>Of my fair ſon <hi>Roſwall:</hi>
+               </l>
+               <l>I think ſo long I cannot ſleep,</l>
+               <l>With that the Quéen began to wéep,</l>
+               <l>Who ſaid, good Sir, for charitie,</l>
+               <l>Let ſome be ſent him for to ſée:</l>
+               <l>It is long ſince he from us went,</l>
+               <l>Perchance his Gold is now all ſpent.</l>
+               <l>As the King his Father was to ſend,</l>
+               <l>There came Meſſengers even at hand</l>
+               <l>With letters from that noble King,</l>
+               <l>Which made him glad in every thing.</l>
+               <l>But <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey beguiled were both, ſo</l>
+               <l>That none of them the caſe did know:</l>
+               <l>The King had written on this manner,</l>
+               <l>Deſiring his Son to his Daughter,</l>
+               <l>The King his Father was right glad,</l>
+               <l>That ſuch a marriage ſhould be made;</l>
+               <l>Therefore he every way conſented,</l>
+               <l>Even as the King by writ had ſent it;</l>
+               <l>An anſwer to him he did ſend,</l>
+               <l>When he the wedding would intend,</l>
+               <l>That he might ſend Lords of that Countrie</l>
+               <l>To bear witneſſe to that marriage frée.</l>
+               <l>The Meſſengers went home again,</l>
+               <l>And told their King what they had done;</l>
+               <pb facs="tcp:180301:12"/>
+               <l>And then anone without delay</l>
+               <l>Appointed was the Marriage day:</l>
+               <l>Who ſent word to the noble King,</l>
+               <l>And he without more tarrying,</l>
+               <l>Sent to ſolemnize that day,</l>
+               <l>An Earle and Luſty Lords tway:</l>
+               <l>With them went two luſty Knights,</l>
+               <l>And many a gallant Squire wight:</l>
+               <l>The King of <hi>Bealm</hi> cauſ'd make a cry,</l>
+               <l>Three dayes before the marriage day,</l>
+               <l>To come and Iuſt a courſe of Wier,</l>
+               <l>Before me and my Queen full dear,</l>
+               <l>To ſee who beſt will undertake,</l>
+               <l>To Iuſt then for his Ladies ſake.</l>
+               <l>But when to <hi>Lillian</hi> it was told,</l>
+               <l>Wit ye well her heart was cold;</l>
+               <l>For ſhe lov'd none but <hi>Diſſawar.</hi>
+               </l>
+               <l>Who, went and told him leſſe and mair,</l>
+               <l>Said, at yon Iuſting you muſt be,</l>
+               <l>For to Iuſt for your Ladie:</l>
+               <l>And if ye will not Iuſt for me,</l>
+               <l>Iuſt for your Love where ere ſhe be:</l>
+               <l>He ſaith, Lady, by my good fay,</l>
+               <l>I nere was <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eed with ſuch a play,</l>
+               <l>For I had rather be at hunting,</l>
+               <l>Then ſinging, dancing, or at Iuſting:</l>
+               <l>Yet I ſhall ſtand by you Lady,</l>
+               <l>To ſée who bears away the gree.</l>
+               <l>And ſo they parted on that night:</l>
+               <l>And on the morn when it was light,</l>
+               <l>
+                  <hi>Diſſawar</hi> got up his way,</l>
+               <l>Went to the Forreſt be it was day:</l>
+               <l>His hounds leading into his hand,</l>
+               <pb facs="tcp:180301:12"/>
+               <l>Full well triping at his command.</l>
+               <l>And when he came to the Forreſt,</l>
+               <l>He looked Eaſt, and looked Weſt,</l>
+               <l>He looked over the bents brown,</l>
+               <l>Where he ſaw neither houſe nor town,</l>
+               <l>The Myrle and Maveſe ſhouted ſhrile,</l>
+               <l>The Sun blinked on every hill:</l>
+               <l>In his heart he had great rejoycing</l>
+               <l>Of the birds full ſwéet ſinging:</l>
+               <l>He looked down upon the ſpray,</l>
+               <l>When it was nine hours of the day,</l>
+               <l>And ſaw a little ſpace him fra,</l>
+               <l>A Knight coming, with him no mae,</l>
+               <l>Riding on a milk-white ſtéed,</l>
+               <l>And all milk-white was his wéed,</l>
+               <l>To <hi>Diſſawar</hi> he came ridand,</l>
+               <l>And lighted down even at his hand,</l>
+               <l>And ſaid, anone, my full ſwéet thing,</l>
+               <l>I muſt be dreſt in your cloathing:</l>
+               <l>Take you my armour and my ſtéed,</l>
+               <l>And dreſſe you all into my wéed:</l>
+               <l>And to you Iuſting ye muſt faire,</l>
+               <l>To win you praiſe and honour mair:</l>
+               <l>When ye have done come ye to me,</l>
+               <l>Of Venniſoun ye ſhall have plentie.</l>
+               <l>Then <hi>Diſſawar</hi> armed him quickly:</l>
+               <l>The Knight him helped that ſtood by:</l>
+               <l>He ſtoutly lap upon his ſteed,</l>
+               <l>And ran Lances through the Mied,</l>
+               <l>Till he came to the Iuſting-place,</l>
+               <l>He ſaw his Miſtres face to face,</l>
+               <l>And he ſaw many Ladies gay,</l>
+               <l>And many Lords in rich array,</l>
+               <pb facs="tcp:180301:13"/>
+               <l>And he ſaw many a luſtie Knight,</l>
+               <l>Iuſting before him in his ſight:</l>
+               <l>He rade unto the Iuſting place,</l>
+               <l>Where Knights encountred face to face,</l>
+               <l>And many ſadles toom'd he there,</l>
+               <l>Both of Knights and many a Squyer:</l>
+               <l>All men wondred what he was,</l>
+               <l>That of Iuſting had ſuch praiſe:</l>
+               <l>The Ladies heart was wonder ſair</l>
+               <l>And ſaid, alace for <hi>Diſſawar.</hi>
+               </l>
+               <l>Why would he not tarry with me,</l>
+               <l>This Noble juſting for to ſee:</l>
+               <l>And when the Iuſting was near done,</l>
+               <l>Then he beheld the ſteward ſoon,</l>
+               <l>His héels turn upward there he made,</l>
+               <l>All that him ſaw were ſore afraid.</l>
+               <l>Then he unto the Forreſt ran,</l>
+               <l>As light as ever did a man:</l>
+               <l>The King cry'd with voice on hie,</l>
+               <l>Go take you Knight, bring him to me,</l>
+               <l>And whoſo brings him to my hand,</l>
+               <l>Shall have an Earldome of land:</l>
+               <l>But all for nought, it was in vain,</l>
+               <l>For to the woods he rade again,</l>
+               <l>Delivered his Armour and his ſteed,</l>
+               <l>And breſt himſelf in his own weed:</l>
+               <l>The Lord had taken him Venniſoun,</l>
+               <l>And homeward with them made he bown,</l>
+               <l>As for help deſired none he,</l>
+               <l>Preſented them to his Ladie.</l>
+               <l>She ſayes, now wherefore <hi>Diſſawar</hi>
+               </l>
+               <l>Beguil'd ye me in this manner?</l>
+               <l>He anſwered, my Lady dear,</l>
+               <pb facs="tcp:180301:13"/>
+               <l>Why ſay ye that unto me here?</l>
+               <l>Wherefore ſhall I come to Iuſting?</l>
+               <l>I have no skill of ſuch a thing.</l>
+               <l>She ſayes a Knight with a white ſtéed,</l>
+               <l>And all milk-white was his wéed,</l>
+               <l>He hath born away the grée,</l>
+               <l>Of him is ſpoken great plentie:</l>
+               <l>And if ye bide the morn with me,</l>
+               <l>Ye peradventure ſhall him ſée,</l>
+               <l>I ſhall do ſo, ſaid he, Madam,</l>
+               <l>The morn I will not paſſe from home,</l>
+               <l>Then <hi>Lillian</hi> to her Ladies went,</l>
+               <l>Paſt to their ſupper incontinent:</l>
+               <l>And on the morn right timouſly,</l>
+               <l>He did riſe up be he might ſee,</l>
+               <l>And forth unto the Forreſt went,</l>
+               <l>After the night was fully ſpent:</l>
+               <l>When that he came to thoſe woods gréen,</l>
+               <l>The place where he before had béen;</l>
+               <l>Vnder the ſhadow of a trée</l>
+               <l>He laid him down right privatlie.</l>
+               <l>The birds did ſing with pleaſant voice,</l>
+               <l>He thought himſelf in Paradice,</l>
+               <l>And to bear part, for joy ſang he</l>
+               <l>Even for the love of his Ladie,</l>
+               <l>How ſhe lov'd him her Paramour,</l>
+               <l>And ſhe of all the world the flower:</l>
+               <l>For pleaſure of the weather fair,</l>
+               <l>So clear and pleaſant was the air,</l>
+               <l>His heart was light on leaf on trée,</l>
+               <l>When that he thought on his Lady.</l>
+               <l>He looked then over an hill,</l>
+               <l>And ſaw a Knight coming him till,</l>
+               <pb facs="tcp:180301:14"/>
+               <l>Having a red ſhield and a red ſpear,</l>
+               <l>And all red ſhined his gear.</l>
+               <l>To <hi>Diſſawar</hi> he came full ſoon,</l>
+               <l>And at his hand he lighted down,</l>
+               <l>And ſaid, Sir, take this horſe of mine,</l>
+               <l>And all my Armour good and fine:</l>
+               <l>To the Iuſting in haſte ride ye,</l>
+               <l>The gracious God your guide be:</l>
+               <l>And ſoon to him he reacht a Spear,</l>
+               <l>Which he did take withoutten fear:</l>
+               <l>He then did ride forth merrilie,</l>
+               <l>And ſoon his Lady can he ſée,</l>
+               <l>And ſhe was cloathed all in white,</l>
+               <l>To look on her was great delight:</l>
+               <l>He made the Lady full gay halſing,</l>
+               <l>And then he went to the Iuſting:</l>
+               <l>And if he Iuſted well before,</l>
+               <l>Better that day by fifteen ſcore.</l>
+               <l>He hunted the Knights here and there,</l>
+               <l>Even as the hound doth hunt the Hare,</l>
+               <l>And many Knights he bare to ground,</l>
+               <l>And ſome of them got their déeds wound.</l>
+               <l>Of the Steward he got a ſight,</l>
+               <l>And on his arſe he made him light,</l>
+               <l>And then unto the Forreſt ran,</l>
+               <l>As light as ever did a man.</l>
+               <l>The King cryed with voice on hie,</l>
+               <l>Go take yon Knight, bring him to me,</l>
+               <l>And whoſo brings him to my hand</l>
+               <l>Shall have an Earldome of land:</l>
+               <l>But all for nought it was in vain,</l>
+               <l>For to the Woods he rade again.</l>
+               <l>When he came there the Knight he leugh,</l>
+               <pb facs="tcp:180301:14"/>
+               <l>Have I not Venniſoun enough?</l>
+               <l>Ye have béen at the field all day,</l>
+               <l>And I at hunting and at play,</l>
+               <l>Then <hi>Diſſawar</hi> gave him his ſteed,</l>
+               <l>His ſhield, his armour, and his weed:</l>
+               <l>His ſteed was all of apple-gray,</l>
+               <l>None better was, I dare well ſay.</l>
+               <l>Then <hi>Diſſawar</hi> went home quickly,</l>
+               <l>With a white Hind to his Lady,</l>
+               <l>When he came home, as I heard tell,</l>
+               <l>She greatly did at him marvell</l>
+               <l>That he came not to the Iuſting:</l>
+               <l>Lady, grive not at ſuch a thing.</l>
+               <l>She ſayes, a Knight with a gray ſtéed,</l>
+               <l>And all red ſhined his weed,</l>
+               <l>This day hath born away the grée,</l>
+               <l>Of him is ſpoken great plentie:</l>
+               <l>And I have ever in my thought</l>
+               <l>That it was you the deed hath wrought.</l>
+               <l>I pray, Madam, truſt no ſuch thing,</l>
+               <l>For I no skill have of Iuſting.</l>
+               <l>She ſayes the morn go not away,</l>
+               <l>Becauſe it is the hindmoſt day:</l>
+               <l>But <hi>Diſſawar</hi> full ſoon the morn</l>
+               <l>Got up and blew his hunting horn,</l>
+               <l>And went unto the Forreſt ſoon</l>
+               <l>With hounds and ratches of renown,</l>
+               <l>And there he had great comforting</l>
+               <l>Of all the birds full ſwéet ſinging,</l>
+               <l>And then he looked up full ſwyth,</l>
+               <l>He ſaw a ſight which made him blyth,</l>
+               <l>A Knight upon a ſtalward Steed,</l>
+               <l>And glittring Gold was all his wéed:</l>
+               <pb facs="tcp:180301:15"/>
+               <l>His ſhield was red, his armour green,</l>
+               <l>Ov'r all the land it might be ſeen.</l>
+               <l>To <hi>Diſſawar</hi> he came full ſoon,</l>
+               <l>And at his hand he lighted down,</l>
+               <l>And ſaid, Sir, take this horſe of mine,</l>
+               <l>And all my armour good and fine:</l>
+               <l>To the Iuſting in haſte ride ye,</l>
+               <l>The Gracious God your guide be:</l>
+               <l>And even ſo ſoon as he came there,</l>
+               <l>He ſaw his Lady, that was ſo fair:</l>
+               <l>And all the weed that ſhe did wear,</l>
+               <l>In glittering red gold did appear,</l>
+               <l>He at his Lady did caſt a King,</l>
+               <l>Then paſt he on to the Iuſting;</l>
+               <l>He rade among them with ſuch force,</l>
+               <l>That he dang down both man and horſe:</l>
+               <l>Out through the field when that he ran,</l>
+               <l>At each ſtroak he dang down a man.</l>
+               <l>Sir <hi>Ronald</hi> and Sir <hi>Oliver</hi>
+               </l>
+               <l>In their Iuſting made no ſuch ſteir,</l>
+               <l>When he beheld the Steward than</l>
+               <l>He dang him down both horſe and man;</l>
+               <l>Both horſe and man on the ground lay,</l>
+               <l>And of his ribs were broken tway.</l>
+               <l>Then to the Forreſt he rade full ſoon,</l>
+               <l>When that the Iuſting was all done;</l>
+               <l>As ſwift as <hi>Falcon</hi> of his flight</l>
+               <l>Vpon a bird when he doth light.</l>
+               <l>The King cryed with voice full ſhrill</l>
+               <l>Go take you Knight, bring him me till;</l>
+               <l>And whoſo brings him to me here,</l>
+               <l>Shall have my land and daughter dear,</l>
+               <l>But all for nought, it was in vain,</l>
+               <pb facs="tcp:180301:15"/>
+               <l>For to the woods he rade again,</l>
+               <l>Delivered his armour and his Stéed,</l>
+               <l>And dreſt himſelf in his own wéed:</l>
+               <l>He thanked him right reverently,</l>
+               <l>Then came the other two Knights in hy.</l>
+               <l>The ſame two Knights we ſpake of aire,</l>
+               <l>Who ſaid, O bleſſed Maſter dear,</l>
+               <l>From priſon you delivered us,</l>
+               <l>Wherefore mot thank you ſwéet Ieſus,</l>
+               <l>And this is alſo moſt certain,</l>
+               <l>We promiſed to you again,</l>
+               <l>If ever you help of us did néed,</l>
+               <l>We ſhould perform the ſame with ſpéed.</l>
+               <l>The morn the marriage ſhould be</l>
+               <l>Of the Steward who beguiled thée:</l>
+               <l>But therefore do thou nothing fear,</l>
+               <l>The Brides bed he ſhall not come near.</l>
+               <l>They took their leave withoutten mair,</l>
+               <l>And he went to his Lady fair.</l>
+               <l>And when that they were coming home</l>
+               <l>From the Iuſting every one,</l>
+               <l>He went unto his Lady gent,</l>
+               <l>Saluting her incontinent.</l>
+               <l>Are ye, <hi>Diſſawar,</hi> welcome to me,</l>
+               <l>That ſo oft hath beguiled me?</l>
+               <l>But yet I muſt forgive you ſoon</l>
+               <l>Of all that ever you have done,</l>
+               <l>She ſayes, a Knight with a ſtalward ſtéed,</l>
+               <l>And glittering gold was all his wéed,</l>
+               <l>This day hath born away the grée</l>
+               <l>Of all the Iuſting dayes thrée.</l>
+               <l>If to my Father the truth ye tell,</l>
+               <l>That it was you Iuſted ſo well:</l>
+               <pb facs="tcp:180301:16"/>
+               <l>Then dare I ſurely take in hand,</l>
+               <l>He'll give you me and all the land.</l>
+               <l>The morn the marriage ſhould be</l>
+               <l>Betwixt you young Prince and me:</l>
+               <l>But here I make a ſolemn vow,</l>
+               <l>I never ſhall have man but you:</l>
+               <l>Therefore I heartily do you pray,</l>
+               <l>The morn that ye go not away.</l>
+               <l>I ſhall do that, my Lady bright,</l>
+               <l>I ſhall not go out of your ſight.</l>
+               <l>Then ſhe the morn right airly roſe,</l>
+               <l>And put upon her all her cloaths,</l>
+               <l>Vnto the King then is ſhe gone,</l>
+               <l>Who kneeled on her knées full ſoon.</l>
+               <l>Then ſaid he, <hi>Lillian,</hi> what would ye?</l>
+               <l>Declare your mind now unto me:</l>
+               <l>If it be lawfull ye require,</l>
+               <l>I ſhall it grant at your deſire.</l>
+               <l>Grant me my asking for Chriſts ſake,</l>
+               <l>That is a Prince to be my maik.</l>
+               <l>Ask on, he ſayes, how that may be,</l>
+               <l>I have deviſed one for thée.</l>
+               <l>She ſayes, they call him <hi>Diſſawar,</hi>
+               </l>
+               <l>I ask no more at you, Father.</l>
+               <l>That asking I do tell thée plain,</l>
+               <l>Is not befitting for thy train:</l>
+               <l>For he is but a Batcheller,</l>
+               <l>For ought that I do know or hear:</l>
+               <l>We know of none he is become,</l>
+               <l>But this man is a great Kings ſon:</l>
+               <l>Therefore ye ſhall let ſuch things be,</l>
+               <l>For it becomes not you nor me,</l>
+               <l>That we the Kings ſon ſhould forbear,</l>
+               <pb facs="tcp:180301:16"/>
+               <l>And match you with a Batcheller:</l>
+               <l>To me it were a great defame,</l>
+               <l>And alſe to you a very ſhame:</l>
+               <l>Therefore I counſell you forbear,</l>
+               <l>And wed yon Prince withoutten péer.</l>
+               <l>And then ſhe paſt the Kirk untill,</l>
+               <l>And married him ſore againſt her will,</l>
+               <l>And when the marriage was done,</l>
+               <l>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e paſt unto her chamber ſoon,</l>
+               <l>And mourned there till dinner time,</l>
+               <l>That ſhe was brought to hall to dine:</l>
+               <l>The King was ſet and eke the Quéen,</l>
+               <l>The ſaid Prince and <hi>Lillian</hi> ſheen:</l>
+               <l>Then every Lord and gentle Knight</l>
+               <l>Marched with a Lady bright:</l>
+               <l>The Courſes came abundantlie,</l>
+               <l>With bread and wine in great plenty,</l>
+               <l>At mid'ſt of dinner as they ſat,</l>
+               <l>In came the thrée Lords at the gate:</l>
+               <l>They did ſalute the King and Queen,</l>
+               <l>And eke fair Lady <hi>Lillian</hi> ſheen:</l>
+               <l>But the Bride-groom that ſate near by,</l>
+               <l>To him they made no courteſie.</l>
+               <l>The King thereat great marvell had,</l>
+               <l>That they to him no reverence made:</l>
+               <l>And ſaid, Why do ye not reſign</l>
+               <l>Homage to your Prince and King?</l>
+               <l>They ſaid, By Him that us dear bought,</l>
+               <l>Into the hall we ſee him nought:</l>
+               <l>Then all the hall they looked round,</l>
+               <l>At laſt him in a chamber found;</l>
+               <l>And then they kneeled down in hy,</l>
+               <l>Saluting him right reverently,</l>
+               <pb facs="tcp:180301:17"/>
+               <l>And by the hand they have him tane.</l>
+               <l>Then marvelled in hall ilk ane:</l>
+               <l>The King wondred and eke the Quéen,</l>
+               <l>But blyth was Lady <hi>Lillian.</hi>
+               </l>
+               <l>They did enquire how it befell,</l>
+               <l>So he the manner did them tell,</l>
+               <l>How that he thought him for to drown,</l>
+               <l>And in the River caſt him down:</l>
+               <l>And how his gold from him took he,</l>
+               <l>And letters, to let him go frée:</l>
+               <l>How he made him an oath to take,</l>
+               <l>Which will turn to his ſhame and lack,</l>
+               <l>That I a ſervant ſo ſhould be</l>
+               <l>To him my Father ſent with me;</l>
+               <l>The which he could not well deny,</l>
+               <l>But granted all right haſtily.</l>
+               <l>Then <hi>Roſwall</hi> told unto the King</l>
+               <l>All the manner of the Iuſting<g ref="char:punc">▪</g>
+               </l>
+               <l>And ſhewed to him that it was he,</l>
+               <l>Who won the Iuſting dayes thrée.</l>
+               <l>And then they took the Steward ſoon,</l>
+               <l>And hanged him high afternoon.</l>
+               <l>Then to the Kirk they paſſed there,</l>
+               <l>And married him and <hi>Lillian</hi> fair.</l>
+               <l>There is no tongue on earth can tell</l>
+               <l>The joy that then had <hi>Roſwall:</hi>
+               </l>
+               <l>And wit ye well if he was fain,</l>
+               <l>Fainer was Lady <hi>Lillian.</hi>
+               </l>
+               <l>For blyther was not <hi>Meledas,</hi>
+               </l>
+               <l>When as the married <hi>Claudias,</hi>
+               </l>
+               <l>Nor <hi>Belfant</hi> that moſt pleaſant flower,</l>
+               <l>When ſhe got <hi>Ronald</hi> to paramour,</l>
+               <l>As was this Lady <hi>Lillian:</hi>
+               </l>
+               <pb facs="tcp:180301:17"/>
+               <l>In heart ſhe was right wonder fain.</l>
+               <l>They ate the ſpice, and drank the wine,</l>
+               <l>And paſt into their dancing ſyne:</l>
+               <l>The King danced with the Quéen,</l>
+               <l>Then <hi>Roſwall</hi> and <hi>Lillian</hi> ſheen:</l>
+               <l>Every Lord and gentle Knight</l>
+               <l>Danced with a Lady bright:</l>
+               <l>They danced there till ſupper time,</l>
+               <l>S<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>aſt unto their ſupper ſyne:</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was no Knight, the truth to tell,</l>
+               <l>That at his ſupper ture ſo well:</l>
+               <l>When that the ſupper ended was,</l>
+               <l>A Biſhop roſe and ſaid the grace,</l>
+               <l>And ſyne the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> paſt to the dancing,</l>
+               <l>The Minſtr<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s play'd with pleaſant ſpring:</l>
+               <l>
+                  <hi>Roſwall</hi> danced with the Quéen,</l>
+               <l>The King himſelf with <hi>Lillian:</hi>
+               </l>
+               <l>Then every Lord and gentle Knight</l>
+               <l>Danced with a Lady bright,</l>
+               <l>The Minſtrels played with good will,</l>
+               <l>Till they had danced all their fill:</l>
+               <l>They eat the ſpice, they drank the wine,</l>
+               <l>Vnto their beds they paſſed ſyne,</l>
+               <l>
+                  <hi>Roſwall</hi> and <hi>Lillian</hi> glad</l>
+               <l>Firſt are they gone unto their bed:</l>
+               <l>But what they did I cannot ſay,</l>
+               <l>I wot they ſleeped not till day.</l>
+               <l>The Bridall laſted twenty dayes,</l>
+               <l>With dancing, carols, and many playes,</l>
+               <l>With Iuſting and with Tornament.</l>
+               <l>Then for the old wife he ſent,</l>
+               <l>And to the King the manner told,</l>
+               <l>How ſhe did in her houſe him hold,</l>
+               <pb facs="tcp:180301:18"/>
+               <l>And ſent him to School with her ſon,</l>
+               <l>And how the Maſter treated him:</l>
+               <l>How the Steward did him perceive,</l>
+               <l>And from the wife did him receive,</l>
+               <l>And loved him even as his ſon,</l>
+               <l>In ſervice to remain with him.</l>
+               <l>The King did marvell much again</l>
+               <l>To hear thir tidings ſo certain.</l>
+               <l>Then <hi>Roſwall</hi> rewarded ſoon</l>
+               <l>All that ever him good had done:</l>
+               <l>Firſt he gave to the old wife</l>
+               <l>Gold that laſted all her life,</l>
+               <l>And then without delay anone</l>
+               <l>He made a Biſhop of her ſon</l>
+               <l>The Maſter that did him inſtru<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>His own Chapland <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> did him make.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Roſwall</hi> and Lil<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> free,</l>
+               <l>Had five ba<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ſicker<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie,</l>
+               <l>Three ſons and two daughters dear</l>
+               <l>Right fair they were withoutten péer</l>
+               <l>The eldeſt <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on was King of <hi>Bealm,</hi>
+               </l>
+               <l>The ſecond fell to <hi>Naples</hi> Realm,</l>
+               <l>The third ſon King of <hi>Bane</hi> was made,</l>
+               <l>When that the King thereof was dead:</l>
+               <l>The eldeſt daughter fell a chance,</l>
+               <l>Married the Daulphin of <hi>France,</hi>
+               </l>
+               <l>The ſecond on the Prince of <hi>Pail.</hi>
+               </l>
+               <l>We pray to him that vanquiſht hell,</l>
+               <l>And for us dyed on a trée</l>
+               <l>To grant us heaven, Amen ſay ye.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180301:18"/>
+            <pb facs="tcp:180301:19"/>
+            <pb facs="tcp:180301:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
